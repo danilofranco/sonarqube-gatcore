@@ -1,0 +1,5 @@
+.env
+testes.py
+content/
+logs/
+venv/
